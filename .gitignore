@@ -1,0 +1,4 @@
+# Compile outputs
+main
+main.dSYM/
+*.o
