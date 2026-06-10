@@ -1,0 +1,36 @@
+================================================================================
+GENAI INTERACTION LOG - ACP_mini Project
+================================================================================
+This file contains all prompts submitted to the GenAI tool (GitHub Copilot)
+and their corresponding responses.
+
+Date: June 10, 2026
+
+================================================================================
+PROMPT 1
+================================================================================
+User Request:
+However, students must copy all the prompts used to interact with the GenAI tool, 
+along with the corresponding responses, into a text file. File name should be 
+prompt.txt.
+
+The prompt.txt file must be uploaded to the same Git repository where the mini 
+project is submitted.
+
+Response:
+GitHub Copilot created this prompt.txt file in the workspace directory 
+(/Users/shreyak/Desktop/ACP_mini/) to document all GenAI interactions.
+
+This file is now ready to be:
+1. Populated with additional prompts and responses as work progresses
+2. Committed to the Git repository along with the mini project
+3. Submitted as required by the assignment
+
+Instructions for use:
+- Add new prompts and responses following the same format
+- Include date/time if desired for each entry
+- Commit this file to version control before final submission
+
+================================================================================
+END OF LOG
+================================================================================
